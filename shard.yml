@@ -1,0 +1,10 @@
+name: nsplist
+version: 0.1.0
+description: nsplist is a Crystal library for parsing the old-style ASCII property lists.
+
+authors:
+  - gemmaro <gemmaro.dev@gmail.com>
+
+crystal: '>= 1.11.1'
+
+license: MIT
